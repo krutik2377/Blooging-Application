@@ -1,3 +1,4 @@
+// This is Global Handler exception for entire sturcture.
 package com.krutik.blog.exceptions;
 
 import java.util.HashMap;
